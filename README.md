@@ -1,2 +1,5 @@
 # The-4th-Team
-This edit is going to cause a merge conflict!
+Project Team Members:
+Alex Walker
+
+#reviewed changes by Alex
